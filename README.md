@@ -1,6 +1,6 @@
 # Hi, I'm M. Fardeen Azam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## 🚀 Full Stack WordPress Developer | Frontend Developer | MERN Stack Learner
+🚀 Full Stack WordPress Developer | Frontend Developer | MERN Stack Learner
 
 Passionate about crafting scalable, user-focused, and visually engaging digital experiences. With strong expertise in WordPress development, frontend engineering, and modern UI implementation, I build fast, responsive, and high-performance web applications that combine functionality with exceptional design.
 
