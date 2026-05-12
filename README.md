@@ -8,7 +8,7 @@ I specialize in transforming ideas into fully functional products — from pixel
 
 Currently expanding my expertise in the MERN Stack to build modern full-stack applications with MongoDB, Express.js, React, and Node.js. I enjoy solving complex problems, optimizing user experiences, and helping startups and businesses launch impactful digital products.
 
----
+--
 
 ## 💡 What I Bring
 
@@ -19,7 +19,7 @@ Currently expanding my expertise in the MERN Stack to build modern full-stack ap
 - ✅ API Integrations & Dynamic Features
 - ✅ Scalable MERN Stack Learning & Development
 
----
+--
 
 ## 🌐 Connect With Me
 
