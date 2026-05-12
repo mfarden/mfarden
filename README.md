@@ -9,9 +9,9 @@ I specialize in building responsive, modern, and high-performance web applicatio
 ## 🌐 Connect With Me
 
 📍 Karachi, Pakistan  
-📧 your-email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🖥️ [Portfolio](https://yourwebsite.com)
+📧 mfardeenazam@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/m-fardeen-azam-307756277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBSgeTtwWQECXmngjjxIOvQ%3D%3D)  
+<!-- 🖥️ [Portfolio](https://yourwebsite.com) -->
 
 ---
 
@@ -53,17 +53,7 @@ I specialize in building responsive, modern, and high-performance web applicatio
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
