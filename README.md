@@ -1,14 +1,34 @@
 # Hi, I'm M. Fardeen Azam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-🚀 Full Stack WordPress Developer | Frontend Developer | MERN Stack Learner
+## 🚀 Full Stack WordPress Developer | Frontend Developer | MERN Stack Learner
 
+
+## 👨‍💻 About Me
 Passionate about crafting scalable, user-focused, and visually engaging digital experiences. With strong expertise in WordPress development, frontend engineering, and modern UI implementation, I build fast, responsive, and high-performance web applications that combine functionality with exceptional design.
 
 I specialize in transforming ideas into fully functional products — from pixel-perfect frontend interfaces to dynamic backend integrations. Skilled in WordPress custom development, Elementor, React, JavaScript, Tailwind CSS, and API integrations, I focus on delivering clean, optimized, and conversion-driven solutions.
 
 Currently expanding my expertise in the MERN Stack to build modern full-stack applications with MongoDB, Express.js, React, and Node.js. I enjoy solving complex problems, optimizing user experiences, and helping startups and businesses launch impactful digital products.
 
---
+
+- 💻 Full Stack WordPress Developer with **2.5+ years** of experience  
+- 🎨 Expert in converting **Figma, XD, and PSD** designs into responsive websites  
+- ⚡ Skilled in **Elementor, WooCommerce, and custom WordPress development**  
+- 🌐 Frontend experience with **React.js, Next.js, Tailwind CSS, Bootstrap, and JavaScript**  
+- 🔧 Backend knowledge of **PHP, Node.js, MySQL, MongoDB, and REST APIs**  
+- 🚀 Passionate about building clean, optimized, and user-friendly applications  
+- 📚 Currently learning advanced **MERN Stack & AI-powered web solutions**
+
+
+
+## 🌐 Connect With Me
+
+📍 Karachi, Pakistan  
+📧 mfardeenazam 
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+<!-- 🖥️ [Portfolio](https://yourwebsite.com) -->
+
+---
 
 ## 💡 What I Bring
 
@@ -19,28 +39,9 @@ Currently expanding my expertise in the MERN Stack to build modern full-stack ap
 - ✅ API Integrations & Dynamic Features
 - ✅ Scalable MERN Stack Learning & Development
 
---
-
-## 🌐 Connect With Me
-
-📍 Karachi, Pakistan  
-📧 mfardeenazam@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/m-fardeen-azam-307756277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBSgeTtwWQECXmngjjxIOvQ%3D%3D)  
-<!-- 🖥️ [Portfolio](https://yourwebsite.com) -->
-
 ---
 
-## 👨‍💻 About Me
 
-- 💻 Full Stack WordPress Developer with **2.5+ years** of experience  
-- 🎨 Expert in converting **Figma, XD, and PSD** designs into responsive websites  
-- ⚡ Skilled in **Elementor, WooCommerce, and custom WordPress development**  
-- 🌐 Frontend experience with **React.js, Next.js, Tailwind CSS, Bootstrap, and JavaScript**  
-- 🔧 Backend knowledge of **PHP, Node.js, MySQL, MongoDB, and REST APIs**  
-- 🚀 Passionate about building clean, optimized, and user-friendly applications  
-- 📚 Currently learning advanced **MERN Stack & AI-powered web solutions**
-
----
 
 # 🛠️ Tech Stack
 
@@ -68,7 +69,17 @@ Currently expanding my expertise in the MERN Stack to build modern full-stack ap
 
 ---
 
+# 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 # 🚀 Featured Projects
 
